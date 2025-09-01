@@ -14,7 +14,7 @@ This repository contains solutions to assignments covering **Python Object-Orien
 
 ## 1. Classes Assignment (`classes_assignment.py`)
 
-### **1. Student Class**
+### **i. Student Class**
 
 ```python
 class Student:
@@ -31,7 +31,7 @@ class Student:
 
 ---
 
-### **2. BankAccount Class with Class Method**
+### **ii. BankAccount Class with Class Method**
 
 ```python
 class BankAccount:
@@ -46,7 +46,7 @@ class BankAccount:
 
 ---
 
-### **3. Car Class (Encapsulation)**
+### **iii. Car Class (Encapsulation)**
 
 ```python
 class Car:
@@ -63,7 +63,7 @@ class Car:
 
 ---
 
-### **4. Circle and Cylinder Classes (Objects as Arguments)**
+### **iv. Circle and Cylinder Classes (Objects as Arguments)**
 
 ```python
 class Circle:
@@ -84,7 +84,7 @@ class Cylinder:
 
 ---
 
-### **5. Author and Book Classes (Aggregation)**
+### **v. Author and Book Classes (Aggregation)**
 
 ```python
 class Author:
@@ -104,7 +104,7 @@ class Book:
 
 ---
 
-### **6. Rectangle Class (Challenge)**
+### **vi. Rectangle Class (Challenge)**
 
 ```python
 class Rectangle:
@@ -120,14 +120,14 @@ class Rectangle:
 
 ## 2. Control Flows Assignment (`control_flows_assignment.ipynb`)
 
-### **1. For Loop: Print 1–10**
+### **i. For Loop: Print 1–10**
 
 ```python
 for i in range(1, 11):
     print(i)
 ```
 
-### **2. While Loop with Stop Condition**
+### **ii. While Loop with Stop Condition**
 
 ```python
 i = 1
@@ -161,7 +161,7 @@ def wait_for_stop():
 
 ---
 
-### **3. Even Numbers 1–20**
+### **iii. Even Numbers 1–20**
 
 ```python
 for i in range(1, 21):
@@ -173,14 +173,14 @@ Alternative with `while` loop also provided.
 
 ---
 
-### **4. Break and Continue (Explanation)**
+### **iv. Break and Continue (Explanation)**
 
 * **Break** → exits a loop immediately, even if the condition is still true.
 * **Continue** → skips the current iteration and moves to the next one.
 
 ---
 
-### **5. Guessing Game (Challenge)**
+### **v. Guessing Game (Challenge)**
 
 ```python
 secret_number = 7
